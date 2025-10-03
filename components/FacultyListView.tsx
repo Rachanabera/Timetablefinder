@@ -83,8 +83,8 @@ export default function FacultyListView({
               <thead>
                 <tr className="bg-green-50 border-b-2 border-green-200">
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">#</th>
-                  <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Code</th>
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Name</th>
+                  <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Code</th>
                   <th className="px-6 py-3 text-center text-sm font-semibold text-gray-700">Status</th>
                 </tr>
               </thead>
@@ -98,12 +98,12 @@ export default function FacultyListView({
                     <td className="px-6 py-4">
                       <div className="flex items-center gap-3">
                         <div className="w-10 h-10 rounded-full bg-gradient-to-br from-green-400 to-emerald-500 flex items-center justify-center text-white font-bold">
-                          {faculty.code.charAt(0)}
+                          {faculty.name.charAt(0)}
                         </div>
-                        <span className="font-bold text-gray-800">{faculty.code}</span>
+                        <span className="font-bold text-gray-800">{faculty.name}</span>
                       </div>
                     </td>
-                    <td className="px-6 py-4 text-gray-700">{faculty.name}</td>
+                    <td className="px-6 py-4 text-gray-700 font-semibold">{faculty.code}</td>
                     <td className="px-6 py-4">
                       <div className="flex justify-center">
                         <div className="px-4 py-1.5 bg-green-100 text-green-700 rounded-full text-sm font-semibold flex items-center gap-2">
@@ -134,8 +134,8 @@ export default function FacultyListView({
               <thead>
                 <tr className="bg-red-50 border-b-2 border-red-200">
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">#</th>
-                  <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Code</th>
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Name</th>
+                  <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Faculty Code</th>
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Course</th>
                   <th className="px-6 py-3 text-left text-sm font-semibold text-gray-700">Room</th>
                   <th className="px-6 py-3 text-center text-sm font-semibold text-gray-700">Status</th>
@@ -151,12 +151,12 @@ export default function FacultyListView({
                     <td className="px-6 py-4">
                       <div className="flex items-center gap-3">
                         <div className="w-10 h-10 rounded-full bg-gradient-to-br from-red-400 to-orange-500 flex items-center justify-center text-white font-bold">
-                          {faculty.code.charAt(0)}
+                          {faculty.name.charAt(0)}
                         </div>
-                        <span className="font-bold text-gray-800">{faculty.code}</span>
+                        <span className="font-bold text-gray-800">{faculty.name}</span>
                       </div>
                     </td>
-                    <td className="px-6 py-4 text-gray-700">{faculty.name}</td>
+                    <td className="px-6 py-4 text-gray-700 font-semibold">{faculty.code}</td>
                     <td className="px-6 py-4">
                       <div className="flex items-start gap-2">
                         <BookOpen className="w-4 h-4 text-orange-500 flex-shrink-0 mt-1" />

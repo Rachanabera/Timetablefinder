@@ -78,7 +78,7 @@ export default function FreeFaculties() {
       const busySet = new Set(busy.map(e => e.Faculty_Code))
       const free = allFaculties.filter(f => !busySet.has(f.code))
       
-      setFreeFaculties(free.sort((a, b) => a.code.localeCompare(b.code)))
+      setFreeFaculties(free.sort((a, b) => a.name.localeCompare(b.name)))
     } catch (error) {
       console.error('Error fetching data:', error)
     }
@@ -274,12 +274,12 @@ export default function FreeFaculties() {
                     className="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-shadow"
                   >
                     <div className="flex items-center gap-3">
-                      <div className="w-12 h-12 rounded-full bg-gradient-to-br from-green-400 to-emerald-500 flex items-center justify-center text-white font-bold">
-                        {faculty.code.charAt(0)}
+                      <div className="w-12 h-12 rounded-full bg-gradient-to-br from-green-400 to-emerald-500 flex items-center justify-center text-white font-bold text-lg">
+                        {faculty.name.charAt(0)}
                       </div>
-                      <div>
-                        <div className="font-bold text-gray-800">{faculty.code}</div>
-                        <div className="text-sm text-gray-600">{faculty.name}</div>
+                      <div className="flex-1 min-w-0">
+                        <div className="font-bold text-gray-800 truncate">{faculty.name}</div>
+                        <div className="text-sm text-gray-600">{faculty.code}</div>
                       </div>
                     </div>
                   </div>
