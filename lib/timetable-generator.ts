@@ -101,7 +101,7 @@ export class TimetableGenerator {
       faculty.subject2,
       faculty.subject3,
       faculty.subject4
-    ].filter(s => s && s.length > 0)
+    ].filter((s): s is string => s !== undefined && s.length > 0)
 
     if (subjects.length === 0) {
       // If no subjects assigned, faculty can teach anything (fallback)
