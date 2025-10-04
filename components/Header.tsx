@@ -1,7 +1,7 @@
 "use client"
 
 import Link from 'next/link'
-import { GraduationCap, Clock } from 'lucide-react'
+import { GraduationCap, Clock, MapPin, User } from 'lucide-react'
 import { useEffect, useState } from 'react'
 
 export default function Header() {
@@ -42,6 +42,23 @@ export default function Header() {
             >
               Room Query
             </Link>
+            <Link 
+              href="/room-availability"
+              className="flex items-center gap-2 px-4 py-2 rounded-lg hover:bg-gray-100 transition-colors"
+            >
+              <MapPin className="w-5 h-5 text-green-600" />
+                <span>Room Availability</span>
+            </Link>
+
+            <Link 
+              href="/faculty-availability"
+              className="flex items-center gap-2 px-4 py-2 rounded-lg hover:bg-gray-100 transition-colors"
+            >
+              <User className="w-5 h-5 text-purple-600" />
+              <span>Faculty Availability</span>
+            </Link>
+
+
             <Link
               href="/free-faculties"
               className="text-gray-600 hover:text-purple-600 font-medium transition-colors"
