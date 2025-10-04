@@ -1,0 +1,43 @@
+Code,Name,Load Hours,Subject1,Subject2,Subject3,Subject4,IsTA
+AVV,Dr. Amarsinh Vidhate,18,PEC-I-CS,MTECH-ANS,,,no
+BAJ,Dr. Bharti Joshi,16,MTECH-ANS,,,,no
+VAH-TA,Vaishnavi Hingmire,20,AWT,CAL,PEC-I-CS,,yes
+NRM-TA,NEHA RAJI MAKATTIL,20,AWT,CAL,BDA,,yes
+VKG,Dr. Vishakha Gaikwad,18,BDA,SE,FCS,,no
+APG,Archana P. Ghate,18,COOS,SC,DS-CI,,no
+SSA,Shweta Ashtekar,18,CN,CAL,OE-MWA,,no
+RG,REKHA GUPTA,18,DBMS,SE,UDSA,,no
+PPD,Dr. PRAJAKTA DERE,18,SE,DC,HRM,UDSA,no
+CJ,Chaitanya Jage,18,AWT,DC,MINOR-CI,SNA,no
+JPV,Jyoti P. Vengurlekar,18,AWT,COA,DC,PEC-I-CS,no
+PVG,Dr. POONAM GADGE,18,BDA,AI,DS-CI,SSSOM,no
+SM,SNEHAL MUMBAIKAR,16,CTA,CN,UDSA,,no
+JSR,Dr. Jaswantsingh Rajput,18,CN,DC,SSSOM,,no
+NNM,Neha Mahajan,18,COOS,BDA,DS-CI,,no
+PYP,Dr. Puja Padiya,18,AWT,ISB-BC,PEC-II-QCQI,,no
+VEN,Dr. VAIBHAV NARAWADE,16,CN,SNA,SBL-AWT,,no
+VMM,Dr. Vanita Mane,18,PEC-I-AA,CTA,ADF,,no
+MMD,Dr. Manoj Dongre,18,CN,ISB-BCA,ITPM,,no
+DVD,Dayanand Dhongade,18,OOP,,,,no
+VPK,Dr. Vivek Khalane,18,DLO5-STA,HRM,PEC-I-CSA,SSSOM,no
+HGB,Dr. Hemlata Biradar,18,DBMS,CTA,,,no
+BAA,Dr.Bhavana Alte,20,DC,DBMS,PEC-I-ADBMS,,no
+SS,Dr. Shamal Salunkhe,16,COOS,PEC-I-ADBMS,,,no
+SRB,Dr. Savita Bhosale,18,CN,DLO5-DF,CAL,,no
+UPW,Dr. Uttam Waghmode,18,DBMS,PEC-I-CS,SNA,PEC-I-ADBMS,no
+SDD,Dr. Siuli Das,16,FM,SE,,,no
+SSS,Dr. Shilpa Shinde,18,DBMS,PEC-II-NLP,DS-CI,PEC-II-DMA,no
+ASC,Aasha Chavan,18,DBMS,OE-CSA,PEC-I-CSA,,no
+PNG,Prathmesh Gunjgur,18,DC,DLO6-IDS,DBMS,,no
+PCK,Preet Chandan Kaur,18,OOP,AWT,,,no
+ASS,Apurva Shinde,18,DBMS,PEC-I-CG,PEC-I-AA,,no
+SNK,Siddhi Kadu,18,OOP,PEC-I-AA,PEC-I-ADBMS,,no
+VMP,Vrushali Patil,18,CN,CAL,SSSOM,,no
+RBK,Rahul Kodag,18,ML,STA,PEC-II-ASTMA,SNA,no
+BVN,Ms. Bharti Nikose,18,COOS,CAL,ISB-BC,,no
+VSJ,Dr. Vaishali Jadhav,18,SE,DLO5-STA,,,no
+SDB,Dr. Smita Bharne,20,SDUML,AWT,PEC-II-ASTMA,,no
+THG,Dr. Tushar Ghorpade,18,BDA,PEC-II-DMA,DS-CI,CAL,no
+TPA,Trupti Agarkar,18,COOS,COA,PEC-I-ADBMS,,no
+SSM,Dr. Shital Mali,18,FLAT,DLO5-STA,BDA,PEC-I-CSA,no
+DAB,Dhanashri Bhosale,18,OOP,SE,CTA,,no
