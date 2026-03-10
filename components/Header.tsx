@@ -12,13 +12,13 @@ export default function Header() {
     { href: '/room-availability', label: 'Room Availability', icon: MapPin, color: 'text-green-600' },
     { href: '/faculty-availability', label: 'Faculty Availability', icon: User, color: 'text-purple-600' },
     { href: '/all-faculties', label: 'All Faculties', icon: Users, color: 'text-orange-600' },
-    { href: '/timetable-generator', label: 'Generate Timetable', icon: Sparkles, color: 'text-indigo-600' }
+    { href: '/timetable-generator', label: 'Generator', icon: Sparkles, color: 'text-indigo-600' }
   ]
 
-  const currentTime = new Date().toLocaleTimeString('en-US', { 
-    hour: '2-digit', 
+  const currentTime = new Date().toLocaleTimeString('en-US', {
+    hour: '2-digit',
     minute: '2-digit',
-    hour12: true 
+    hour12: true
   })
 
   return (

@@ -5,24 +5,24 @@ import { Users, Clock, RefreshCw, Grid3x3, Table2 } from 'lucide-react'
 import TimeSelector from '@/components/TimeSelector'
 import CustomTimeSlotInput from '@/components/CustomTimeSlotInput'
 import FacultyListView from '@/components/FacultyListView'
-import { getCurrentDay, getCurrentTimeSlot, type TimetableEntry } from '@/lib/timetable'
+import { getCurrentDay, getCurrentTimeSlot, timeToHour, type TimetableEntry } from '@/lib/timetable'
 import { getDayName } from '@/lib/utils'
 
 export default function FreeFaculties() {
   const [freeFaculties, setFreeFaculties] = useState<{ code: string; name: string }[]>([])
   const [busyFaculties, setBusyFaculties] = useState<TimetableEntry[]>([])
   const [loading, setLoading] = useState(true)
-  
+
   const [useCurrentTime, setUseCurrentTime] = useState(true)
   const [currentDay, setCurrentDay] = useState('')
   const [currentTime, setCurrentTime] = useState('')
   const [selectedDay, setSelectedDay] = useState('')
   const [selectedTime, setSelectedTime] = useState('')
-  
+
   const [useCustomTime, setUseCustomTime] = useState(false)
   const [customTimeSlot, setCustomTimeSlot] = useState('')
   const [isCustomTimeValid, setIsCustomTimeValid] = useState(false)
-  
+
   const [viewMode, setViewMode] = useState<'cards' | 'table'>('cards')
 
   const fetchFreeFaculties = async (day: string, timeSlot: string) => {
@@ -38,31 +38,39 @@ export default function FreeFaculties() {
 
       const busy = data.filter(entry => {
         if (entry.Day !== day) return false
-        
+
         if (useCustomTime && customTimeSlot) {
           const [customStart, customEnd] = customTimeSlot.split('-')
           const [entryStart, entryEnd] = entry.Time_Slot.split('-')
-          
+
           const parseTime = (t: string) => {
             const [h, m] = t.split(':').map(Number)
             return h * 60 + (m || 0)
           }
-          
+
           const customStartMin = parseTime(customStart)
           const customEndMin = parseTime(customEnd)
           const entryStartMin = parseTime(entryStart)
           const entryEndMin = parseTime(entryEnd)
-          
+
           return (
             (entryStartMin >= customStartMin && entryStartMin < customEndMin) ||
             (entryEndMin > customStartMin && entryEndMin <= customEndMin) ||
             (entryStartMin <= customStartMin && entryEndMin >= customEndMin)
           )
         } else {
-          return entry.Time_Slot === timeSlot
+          // Check if the entry's time slot overlaps with the queried time slot
+          // This handles combined 2-hour slots like "11:00-1:00" matching "11:00-12:00"
+          const [qStart, qEnd] = timeSlot.split('-')
+          const [eStart, eEnd] = entry.Time_Slot.split('-')
+          const qStartH = timeToHour(qStart)
+          const qEndH = timeToHour(qEnd)
+          const eStartH = timeToHour(eStart)
+          const eEndH = timeToHour(eEnd)
+          return eStartH < qEndH && eEndH > qStartH
         }
       })
-      
+
       setBusyFaculties(busy)
 
       const allFaculties = Array.from(
@@ -77,7 +85,7 @@ export default function FreeFaculties() {
 
       const busySet = new Set(busy.map(e => e.Faculty_Code))
       const free = allFaculties.filter(f => !busySet.has(f.code))
-      
+
       setFreeFaculties(free.sort((a, b) => a.name.localeCompare(b.name)))
     } catch (error) {
       console.error('Error fetching data:', error)
@@ -91,12 +99,12 @@ export default function FreeFaculties() {
       const time = getCurrentTimeSlot() || 'Outside class hours'
       setCurrentDay(day)
       setCurrentTime(time)
-      
+
       if (useCurrentTime && !useCustomTime && time !== 'Outside class hours') {
         fetchFreeFaculties(day, time)
       }
     }
-    
+
     updateCurrent()
     const interval = setInterval(updateCurrent, 60000)
     return () => clearInterval(interval)
@@ -154,17 +162,15 @@ export default function FreeFaculties() {
               </p>
             </div>
           </div>
-          
+
           <button
             onClick={() => setUseCustomTime(!useCustomTime)}
-            className={`relative inline-flex h-8 w-14 items-center rounded-full transition-colors ${
-              useCustomTime ? 'bg-gradient-to-r from-purple-500 to-pink-500' : 'bg-gray-300'
-            }`}
+            className={`relative inline-flex h-8 w-14 items-center rounded-full transition-colors ${useCustomTime ? 'bg-gradient-to-r from-purple-500 to-pink-500' : 'bg-gray-300'
+              }`}
           >
             <span
-              className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${
-                useCustomTime ? 'translate-x-7' : 'translate-x-1'
-              }`}
+              className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${useCustomTime ? 'translate-x-7' : 'translate-x-1'
+                }`}
             />
           </button>
         </div>
@@ -295,7 +301,7 @@ export default function FreeFaculties() {
           <Clock className="w-16 h-16 text-blue-600 mx-auto mb-4" />
           <h3 className="font-semibold text-blue-800 mb-2">Outside Class Hours</h3>
           <p className="text-blue-700">
-            {useCurrentTime 
+            {useCurrentTime
               ? 'Classes are not currently in session. Please check during class hours (9:00 AM - 5:00 PM).'
               : 'Please select a valid time slot to view faculty availability.'}
           </p>

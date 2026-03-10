@@ -1,21 +1,25 @@
 "use client"
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Suspense } from 'react'
+import { useSearchParams } from 'next/navigation'
 import { Calendar, Search, User, Clock, Loader2, CalendarDays, CalendarRange } from 'lucide-react'
 import ScheduleCard from '@/components/ScheduleCard'
 import TimetableView from '@/components/TimetableView'
 import WeeklyTimetableView from '@/components/WeeklyTimetableView'
-import { getCurrentDay, getCurrentTimeSlot, type TimetableEntry, TIME_SLOTS, DAYS } from '@/lib/timetable'
+import { getCurrentDay, getCurrentTimeSlot, getSlotStartHour, type TimetableEntry, TIME_SLOTS, DAYS } from '@/lib/timetable'
 import { getDayName } from '@/lib/utils'
 
-export default function FacultySchedule() {
-  const [facultyCode, setFacultyCode] = useState('')
+function FacultyScheduleContent() {
+  const searchParams = useSearchParams()
+  const initialCode = searchParams.get('code') || ''
+
+  const [facultyCode, setFacultyCode] = useState(initialCode)
   const [schedule, setSchedule] = useState<TimetableEntry[]>([])
   const [weeklySchedule, setWeeklySchedule] = useState<TimetableEntry[]>([])
   const [loading, setLoading] = useState(false)
   const [allFaculties, setAllFaculties] = useState<{ code: string; name: string }[]>([])
   const [viewMode, setViewMode] = useState<'timeline' | 'timetable' | 'weekly'>('timeline')
-  
+
   const [useCurrentDay, setUseCurrentDay] = useState(true)
   const [currentDay, setCurrentDay] = useState('')
   const [currentSlot, setCurrentSlot] = useState('')
@@ -24,7 +28,7 @@ export default function FacultySchedule() {
   useEffect(() => {
     setCurrentDay(getCurrentDay())
     setCurrentSlot(getCurrentTimeSlot() || '')
-    
+
     fetch('/api/timetable')
       .then(res => res.json())
       .then((data: TimetableEntry[]) => {
@@ -37,47 +41,49 @@ export default function FacultySchedule() {
             name: entry?.Faculty_Name || code
           }
         }).sort((a, b) => a.code.localeCompare(b.code))
-        
+
         setAllFaculties(faculties)
       })
   }, [])
 
   useEffect(() => {
-    if (currentDay) {
-      setSelectedDay(currentDay)
+    if (initialCode) {
+      handleSearchManually(initialCode)
     }
-  }, [currentDay])
+  }, [initialCode, currentDay])
 
-  const handleSearch = async () => {
-    if (!facultyCode) return
-    
+  const handleSearchManually = async (code: string) => {
+    if (!code) return
+
     setLoading(true)
     try {
       const response = await fetch('/api/timetable')
       const data: TimetableEntry[] = await response.json()
-      
+
       const day = useCurrentDay ? currentDay : selectedDay
-      
+
       // Get day schedule
       const daySchedule = data.filter(
-        entry => 
-          entry.Faculty_Code.toUpperCase() === facultyCode.toUpperCase() &&
+        entry =>
+          entry.Faculty_Code.toUpperCase() === code.toUpperCase() &&
           entry.Day === day
-      ).sort((a, b) => TIME_SLOTS.indexOf(a.Time_Slot) - TIME_SLOTS.indexOf(b.Time_Slot))
-      
+      ).sort((a, b) => getSlotStartHour(a.Time_Slot) - getSlotStartHour(b.Time_Slot))
+
       setSchedule(daySchedule)
 
       // Get weekly schedule
       const weekly = data.filter(
-        entry => entry.Faculty_Code.toUpperCase() === facultyCode.toUpperCase()
+        entry => entry.Faculty_Code.toUpperCase() === code.toUpperCase()
       )
       setWeeklySchedule(weekly)
-      
+
     } catch (error) {
       console.error('Error fetching data:', error)
     }
     setLoading(false)
   }
+
+  const handleSearch = () => handleSearchManually(facultyCode)
 
   const activeDay = useCurrentDay ? currentDay : selectedDay
 
@@ -102,17 +108,15 @@ export default function FacultySchedule() {
               </p>
             </div>
           </div>
-          
+
           <button
             onClick={() => setUseCurrentDay(!useCurrentDay)}
-            className={`relative inline-flex h-8 w-14 items-center rounded-full transition-colors ${
-              useCurrentDay ? 'bg-gradient-to-r from-orange-500 to-red-500' : 'bg-gray-300'
-            }`}
+            className={`relative inline-flex h-8 w-14 items-center rounded-full transition-colors ${useCurrentDay ? 'bg-gradient-to-r from-orange-500 to-red-500' : 'bg-gray-300'
+              }`}
           >
             <span
-              className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${
-                useCurrentDay ? 'translate-x-7' : 'translate-x-1'
-              }`}
+              className={`inline-block h-6 w-6 transform rounded-full bg-white transition-transform ${useCurrentDay ? 'translate-x-7' : 'translate-x-1'
+                }`}
             />
           </button>
         </div>
@@ -142,11 +146,10 @@ export default function FacultySchedule() {
                 <button
                   key={day}
                   onClick={() => setSelectedDay(day)}
-                  className={`py-3 px-2 rounded-lg font-semibold text-sm transition-all duration-200 ${
-                    selectedDay === day
-                      ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
-                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-                  }`}
+                  className={`py-3 px-2 rounded-lg font-semibold text-sm transition-all duration-200 ${selectedDay === day
+                    ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
+                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                    }`}
                 >
                   {day}
                 </button>
@@ -215,32 +218,29 @@ export default function FacultySchedule() {
         <div className="flex justify-center gap-3 flex-wrap">
           <button
             onClick={() => setViewMode('timeline')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${
-              viewMode === 'timeline'
-                ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${viewMode === 'timeline'
+              ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+              }`}
           >
             Timeline View
           </button>
           <button
             onClick={() => setViewMode('timetable')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${
-              viewMode === 'timetable'
-                ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${viewMode === 'timetable'
+              ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+              }`}
           >
             <CalendarDays className="w-5 h-5" />
             Day Timetable
           </button>
           <button
             onClick={() => setViewMode('weekly')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${
-              viewMode === 'weekly'
-                ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${viewMode === 'weekly'
+              ? 'bg-gradient-to-r from-orange-500 to-red-500 text-white shadow-lg scale-105'
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+              }`}
           >
             <CalendarRange className="w-5 h-5" />
             Weekly Timetable
@@ -264,8 +264,8 @@ export default function FacultySchedule() {
               <div key={index} className="relative pl-8">
                 <div className="absolute left-0 top-0 bottom-0 w-px bg-gradient-to-b from-orange-500 to-red-500" />
                 <div className="absolute left-0 top-6 w-3 h-3 rounded-full bg-orange-500 ring-4 ring-orange-100" />
-                <ScheduleCard 
-                  entry={entry} 
+                <ScheduleCard
+                  entry={entry}
                   highlight={entry.Time_Slot === currentSlot && useCurrentDay}
                 />
               </div>
@@ -304,5 +304,17 @@ export default function FacultySchedule() {
         </div>
       )}
     </div>
+  )
+}
+
+export default function FacultySchedule() {
+  return (
+    <Suspense fallback={
+      <div className="flex items-center justify-center min-h-[50vh]">
+        <Loader2 className="w-10 h-10 text-orange-500 animate-spin" />
+      </div>
+    }>
+      <FacultyScheduleContent />
+    </Suspense>
   )
 }

@@ -3,7 +3,7 @@
     "Faculty_Name": "SHWETA ASHTEKAR",
     "Faculty_Code": "SSA",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "TE-CSBS-A3-CMA",
     "Room": "520"
   },
@@ -11,7 +11,7 @@
     "Faculty_Name": "SHWETA ASHTEKAR",
     "Faculty_Code": "SSA",
     "Day": "MON",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-C2-DSE",
     "Room": "520"
   },
@@ -35,7 +35,7 @@
     "Faculty_Name": "SHWETA ASHTEKAR",
     "Faculty_Code": "SSA",
     "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "TE-CSBS-A1-CMA",
     "Room": "520"
   },
@@ -43,7 +43,7 @@
     "Faculty_Name": "SHWETA ASHTEKAR",
     "Faculty_Code": "SSA",
     "Day": "WED",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "TE-CSBS-A2-CMA",
     "Room": "520"
   },
@@ -51,7 +51,7 @@
     "Faculty_Name": "SHWETA ASHTEKAR",
     "Faculty_Code": "SSA",
     "Day": "WED",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-C1-DSE",
     "Room": "520"
   },
@@ -86,1686 +86,6 @@
     "Time_Slot": "10:00-11:00",
     "Course": "DSE SE-C",
     "Room": "506"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "ML TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D1-ML",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-C+D2",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-C1-PEC-III DMV",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-III DMV TE-C++D2",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D3-ML",
-    "Room": "617B"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-C2-PEC-III DMV",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-C+D2",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "NEHA MAHAJAN",
-    "Faculty_Code": "NNM",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-D2-ML",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A2-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A2-PEC-III SC",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III SC TE-(A-E)",
-    "Room": "612-B"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "OS SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "OS SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-III SC TE-(A-E)",
-    "Room": "612-B"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B2-PEC-III SC",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "OS SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-(A3+D3)-PEC-III SC",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III SC TE-(A-E)",
-    "Room": "612-B"
-  },
-  {
-    "Faculty_Name": "ARCHANA GHATE",
-    "Faculty_Code": "APG",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-(C3+E3)-PEC-III SC",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B1-PEC-III-DMV",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A1-PEC-III-DMV",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR SE",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR SE",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-B3-PEC-III-DMV",
-    "Room": "617A"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR SE",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Dr. SHILPA SHINDE",
-    "Faculty_Code": "SSS",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-(C3+E3)-PEC-III-DMV-",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC-II DWM TE-(A-E)",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "CNS TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-(A3+C3)-PEC-II-DWM",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-II DWM TE-(A-E)",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-(E2)-PEC-II-DWM",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-II DWM TE-(A-E)",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "CNS TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-C2-CNS",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-C1-CNS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CNS TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DHANASHREE BHOSLE",
-    "Faculty_Code": "DAB",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-(B3+D3)-PEC-II-DWM",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-D2-CN",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC-II CC TE-(B1+B2+C1+E3)",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "CN SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CN SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-II CC TE-(B1+B2+C1+E2)",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B2-PEC-II-CC",
-    "Room": "520"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-II CC TE-(B1+B2+C1+E3)",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C3-CN",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B1-PEC-II-CC",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C2-CN",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "VRUSHALI PATIL",
-    "Faculty_Code": "VMP",
-    "Day": "FRI",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CN SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC-II CC TE-(A+E1)",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-(A3+C3)-PEC-II-CC",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "DEVOPS TE-(A+D)",
-    "Room": "511"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-II CC TE-(A+E1)",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D3-DEVOPS",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-II CC TE-(A+E1)",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A1-PEC-II-CC",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-D2-DEVOPS",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-D1-DEVOPS",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "FRI",
-    "Time_Slot": "2:00-3:00",
-    "Course": "DEVOPS TE-(A+D)",
-    "Room": "511"
-  },
-  {
-    "Faculty_Name": "Ms. Bharti Vijay Nikose",
-    "Faculty_Code": "BVN",
-    "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-DS-MINOR-NLP-B3",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CNS TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D3-CNS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "MTech-BCA(TH)- (11:30-1:00PM)",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D1-CNS",
-    "Room": "408"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CNS TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D2-CNS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "THR",
-    "Time_Slot": "10:00-11:00",
-    "Course": "MTech-BCA(TH)- (10:00-11:30AM)",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "Dr. SAVITA BHOSALE",
-    "Faculty_Code": "SRB",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CNS TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "MTech-LAB-IV",
-    "Room": "213"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-B1-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "MTech-OTBI(TH) (10:00-11:30AM)",
-    "Room": "213-A"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-B3-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "AOA                     SE-CSBS-B",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "MTech-OTBI(TH) (1:30-3:00PM)",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "THR",
-    "Time_Slot": "10:00-11:00",
-    "Course": "AOA                     SE-CSBS-B",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-B2-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR. VANITA MANE",
-    "Faculty_Code": "VMM",
-    "Day": "FRI",
-    "Time_Slot": "1:00-2:00",
-    "Course": "AOA                     SE-CSBS-B",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CN SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C3-SBLPython",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "MTech-SBL(TH) (2:30-4:30PM)",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SBLPython SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C2-SBLPython",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "CN SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C1-SBLPython",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "CN SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR. VAIBHAV NARAWADE",
-    "Faculty_Code": "VEN",
-    "Day": "FRI",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SBLPython SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "DSE SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A2-DSE",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "IOT TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "IOT SE-A-CSBS",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "DSE SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A1-DSE",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "IOT TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A3-DSE",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "IOT SE-A-CSBS",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "Dr. SIULI DAS",
-    "Faculty_Code": "SDD",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "DSE SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A1-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B2-DSE",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "AOA SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A3-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "AOA SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "AOA SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B1-DSE",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-A2-AOA",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "THR",
-    "Time_Slot": "10:00-11:00",
-    "Course": "DSE SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B3-DSE",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "THR",
-    "Time_Slot": "2:00-3:00",
-    "Course": "DSE SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR.SIDDHI KADU",
-    "Faculty_Code": "SNK",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "DSE SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A3-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "ML TE-E",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E3-ML",
-    "Room": "601"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A2-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-E",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E1-ML",
-    "Room": "617B"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-A1-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-E",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SBLPython SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "SBLPython SE-CSBS-A",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "Dr. UTTAM WAGHMODE",
-    "Faculty_Code": "UPW",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-E2-ML",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E1-CN",
-    "Room": "518B"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "IOT TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CN SE-E",
-    "Room": "515"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "IOT TE-D",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D2-PEC-II-CC",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E3-CN",
-    "Room": "518B"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CN SE-E",
-    "Room": "515"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E2-CN",
-    "Room": "518B"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CN SE-E",
-    "Room": "515"
-  },
-  {
-    "Faculty_Name": "Dr. Jaswantsingh Rajput",
-    "Faculty_Code": "JSR",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-D3-PEC-II-CC",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "OS SE-CSBS-",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "ML TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-B1-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "OS SE-CSBS-A",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-A3-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B3-ML",
-    "Room": "617A"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "OS SE-CSBS-A",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-B1-ML",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "TRUPTI AGARKAR",
-    "Faculty_Code": "TPA",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-B3-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR ISB TE",
-    "Room": "514"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CNS TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR ISB TE",
-    "Room": "514"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CNS TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B3-CNS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR ISB TE",
-    "Room": "514"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CNS TE-B",
-    "Room": "612B"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-B2-CNS",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-B1-CNS",
-    "Room": "518B"
-  },
-  {
-    "Faculty_Name": "PRATHMESH G.",
-    "Faculty_Code": "PNG",
-    "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-MINOR-ISB",
-    "Room": "524"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A1-PEC-IV- ASTMA",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E3-SBLPython",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "PEC IV- ASTMA TE-CSBS-A",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SBLPython SE-E",
-    "Room": "515"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "PEC IV- ASTMA TE-CSBS-A",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A2-PEC-II-CC",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E2-SBLPython",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A3-PEC-IV-ASTMA-521                   TE-CSBS-A3-PEC-IV-QCQI",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-E1-SBLPython",
-    "Room": "523"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "THR",
-    "Time_Slot": "2:00-3:00",
-    "Course": "SBLPython SE-E",
-    "Room": "515"
-  },
-  {
-    "Faculty_Name": "RAHUL KODAG",
-    "Faculty_Code": "RBK",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC IV- ASTMA TE-CSBS-A",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-CSBS-B2-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E1-PEC-II-CC",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-CSBS-A1-OS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TCS SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-C2-PEC-II-CC",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "TCS SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "TCS SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E3-PEC-II-CC",
-    "Room": "202A"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "THR",
-    "Time_Slot": "10:00-11:00",
-    "Course": "TCS SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "TCS SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. SHITAL MALI",
-    "Faculty_Code": "SSM",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TCS SE-C",
-    "Room": "506"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CNS TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B3-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "SBLPython SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CNS TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "WED",
-    "Time_Slot": "10:00-11:00",
-    "Course": "SBLPython SE-B",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B2-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A3-CNS",
-    "Room": "520"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B1-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-A1-CNS",
-    "Room": "520"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CNS TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "DR. BHAVNA ALTE",
-    "Faculty_Code": "BAA",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-A2-CNS",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "ML TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-C2-DEVOPS",
-    "Room": "520"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "DEVOPS TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A3-ML",
-    "Room": "617A"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-C3-DEVOPS",
-    "Room": "518B"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-DS MINOR NLP",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-A",
-    "Room": "626"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-A2-ML",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-C1-DEVOPS",
-    "Room": "522"
-  },
-  {
-    "Faculty_Name": "REKHA GUPTA",
-    "Faculty_Code": "RG",
-    "Day": "FRI",
-    "Time_Slot": "2:00-3:00",
-    "Course": "DEVOPS TE-C",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-A",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-D2-PEC-III-DMV",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-A",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-A",
-    "Room": "625"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E1-PEC-III-DMV",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-A1-MINOR-NLP",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-E2-PEC-III-DMV",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "DR. TUSHAR GHORPADE",
-    "Faculty_Code": "THG",
-    "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B1-MINOR-NLP",
-    "Room": "513A"
   },
   {
     "Faculty_Name": "DR. AMARSINGH VIDHATE",
@@ -1808,98 +128,98 @@
     "Room": "511"
   },
   {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-B",
-    "Room": "624"
+    "Time_Slot": "10:00-11:00",
+    "Course": "CNS TE-E",
+    "Room": "612A"
   },
   {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
     "Day": "MON",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-B3-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "TUE",
     "Time_Slot": "11:00-12:00",
-    "Course": "SE-A3-SBLPython",
-    "Room": "513A"
+    "Course": "SBLPython SE-CSBS-B",
+    "Room": "415"
   },
   {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "SBLPython SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
     "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-B",
-    "Room": "624"
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-B2-SBLPython",
+    "Room": "513B"
   },
   {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "TUE",
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "CNS TE-E",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "WED",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-D1-DSE",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C3-DSE",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "THR",
+    "Time_Slot": "1:00-2:00",
+    "Course": "SBLPython SE-CSBS-B",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "FRI",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-B1-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-E1-CNS",
+    "Room": "620"
+  },
+  {
+    "Faculty_Name": "CHAITANYA JAGE",
+    "Faculty_Code": "CJ",
+    "Day": "FRI",
     "Time_Slot": "2:00-3:00",
-    "Course": "SBLPython SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MINOR-NLP TE-B",
-    "Room": "624"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A2-SBLPython",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-A2-MINOR-NLP",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A1-SBLPython",
-    "Room": "513A"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-A1-ML",
-    "Room": "617A"
-  },
-  {
-    "Faculty_Name": "DR. PREETCHANDAN KAUR",
-    "Faculty_Code": "PCK",
-    "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B2-MINOR-NLP",
-    "Room": "513B"
+    "Course": "CNS TE-E",
+    "Room": "612A"
   },
   {
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "SE-D1-SBLPython",
     "Room": "513A"
   },
@@ -1907,7 +227,7 @@
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "MON",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-E2-DSE",
     "Room": "521"
   },
@@ -1931,7 +251,7 @@
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "SE-D3-SBLPython",
     "Room": "513A"
   },
@@ -1939,7 +259,7 @@
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "WED",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-E1-DSE",
     "Room": "521"
   },
@@ -1947,7 +267,7 @@
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "WED",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "SE-D2-SBLPython",
     "Room": "513A"
   },
@@ -1971,7 +291,7 @@
     "Faculty_Name": "DAYANAND DHONGDE",
     "Faculty_Code": "DVD",
     "Day": "THR",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-E3-DSE",
     "Room": "521"
   },
@@ -1982,70 +302,6 @@
     "Time_Slot": "11:00-12:00",
     "Course": "DSE SE-E",
     "Room": "515"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "MON",
-    "Time_Slot": "12:00-1:00",
-    "Course": "MTech-DS(TH) 12:00-1:30",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B2-ML",
-    "Room": "202B"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TCS SE-D",
-    "Room": "514"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "MTech-LAB-III",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "MTech-DS(TH) 9:30-11:00",
-    "Room": "213A"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TCS SE-D",
-    "Room": "514"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-C3-ML",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "DR. BHARTI JOSHI",
-    "Faculty_Code": "BAJ",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TCS SE-D",
-    "Room": "514"
   },
   {
     "Faculty_Name": "DR. MANOJ DONGRE",
@@ -2059,7 +315,7 @@
     "Faculty_Name": "DR. MANOJ DONGRE",
     "Faculty_Code": "MMD",
     "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "TE-CSBS-A3-IS",
     "Room": "513A"
   },
@@ -2099,7 +355,7 @@
     "Faculty_Name": "DR. MANOJ DONGRE",
     "Faculty_Code": "MMD",
     "Day": "THR",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "TE-CSBS-A2-IS",
     "Room": "522"
   },
@@ -2115,97 +371,257 @@
     "Faculty_Name": "DR. MANOJ DONGRE",
     "Faculty_Code": "MMD",
     "Day": "FRI",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "TE-CSBS-A1-IS",
     "Room": "522"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "ML TE-C",
-    "Room": "624"
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A1-PEC-IV- ASTMA",
+    "Room": "521"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "MON",
-    "Time_Slot": "12:00-1:00",
-    "Course": "AI TE-CSBS",
-    "Room": "505"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E3-SBLPython",
+    "Room": "523"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "MON",
     "Time_Slot": "3:00-4:00",
-    "Course": "TE-C1-ML",
-    "Room": "202A"
+    "Course": "PEC IV- ASTMA TE-CSBS-A",
+    "Room": "415"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "AI TE-CSBS",
-    "Room": "414"
-  },
-  {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "TUE",
     "Time_Slot": "11:00-12:00",
-    "Course": "TE-CSBS-A2-AI",
-    "Room": "522"
+    "Course": "SBLPython SE-E",
+    "Room": "515"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "TUE",
     "Time_Slot": "2:00-3:00",
-    "Course": "ML TE-C",
-    "Room": "624"
+    "Course": "PEC IV- ASTMA TE-CSBS-A",
+    "Room": "415"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A2-PEC-II-CC",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A3-AI",
-    "Room": "522"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E2-SBLPython",
+    "Room": "523"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "THR",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A1-AI",
-    "Room": "520"
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A3-PEC-IV-ASTMA-521                   TE-CSBS-A3-PEC-IV-QCQI",
+    "Room": "521"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "ML TE-C",
-    "Room": "624"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E1-SBLPython",
+    "Room": "523"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
     "Day": "THR",
     "Time_Slot": "2:00-3:00",
-    "Course": "AI TE-CSBS",
+    "Course": "SBLPython SE-E",
+    "Room": "515"
+  },
+  {
+    "Faculty_Name": "RAHUL KODAG",
+    "Faculty_Code": "RBK",
+    "Day": "FRI",
+    "Time_Slot": "11:00-12:00",
+    "Course": "PEC IV- ASTMA TE-CSBS-A",
     "Room": "612A"
   },
   {
-    "Faculty_Name": "DR. POONAM GADGE",
-    "Faculty_Code": "PVG",
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-A",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D2-PEC-III-DMV",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "TUE",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-A",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "WED",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-A",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "WED",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E1-PEC-III-DMV",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "THR",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-A1-MINOR-NLP",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-E2-PEC-III-DMV",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-(E1+E2+B3+D3)",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "DR. TUSHAR GHORPADE",
+    "Faculty_Code": "THG",
+    "Day": "FRI",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B1-MINOR-NLP",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CN SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C3-SBLPython",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "MON",
+    "Time_Slot": "2:00-3:00",
+    "Course": "MTech-SBL(TH) (2:30-4:30PM)",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "SBLPython SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C2-SBLPython",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "WED",
+    "Time_Slot": "3:00-4:00",
+    "Course": "CN SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C1-SBLPython",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
     "Day": "FRI",
     "Time_Slot": "11:00-12:00",
-    "Course": "TE-C2-ML",
-    "Room": "617B"
+    "Course": "CN SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. VAIBHAV NARAWADE",
+    "Faculty_Code": "VEN",
+    "Day": "FRI",
+    "Time_Slot": "1:00-2:00",
+    "Course": "SBLPython SE-C",
+    "Room": "506"
   },
   {
     "Faculty_Name": "DR. VIVEK KHALANE",
@@ -2243,7 +659,7 @@
     "Faculty_Name": "DR. VIVEK KHALANE",
     "Faculty_Code": "VPK",
     "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "TE-C3-CNS",
     "Room": "523"
   },
@@ -2267,7 +683,7 @@
     "Faculty_Name": "DR. VIVEK KHALANE",
     "Faculty_Code": "VPK",
     "Day": "WED",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "TE-E2-CNS",
     "Room": "523"
   },
@@ -2275,7 +691,7 @@
     "Faculty_Name": "DR. VIVEK KHALANE",
     "Faculty_Code": "VPK",
     "Day": "THR",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "TE-E3-CNS",
     "Room": "523"
   },
@@ -2291,191 +707,519 @@
     "Faculty_Name": "DR. VIVEK KHALANE",
     "Faculty_Code": "VPK",
     "Day": "FRI",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "TE-CSBS-A3-PEC-III-CRP",
     "Room": "519"
   },
   {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CP FE-D",
-    "Room": "012"
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A2-PEC-III-CSA",
+    "Room": "519"
   },
   {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "MON",
     "Time_Slot": "11:00-12:00",
-    "Course": "SE-A1-CN",
-    "Room": "112A"
+    "Course": "PEC-III CSA TE-CSBS",
+    "Room": "505"
   },
   {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "TUE",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CN SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "CP FE-D",
-    "Room": "012"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A3-CN",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "WED",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
+    "Day": "MON",
     "Time_Slot": "2:00-3:00",
-    "Course": "CN SE-A",
-    "Room": "504"
+    "Course": "DEVOPS TE-E",
+    "Room": "612A"
   },
   {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "THR",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CN SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-A2-CN",
-    "Room": "112A"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "THR",
-    "Time_Slot": "3:00-4:00",
-    "Course": "FE-D2-CP",
-    "Room": "212A"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "CP FE-D",
-    "Room": "012"
-  },
-  {
-    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
-    "Faculty_Code": "VKG",
-    "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
-    "Course": "FE-D3-CP",
-    "Room": "212A"
-  },
-  {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "IOT SE-C",
-    "Room": "506"
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E2-DEVOPS",
+    "Room": "521"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
-    "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B1-CN",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "TUE",
     "Time_Slot": "9:00-10:00",
-    "Course": "CP-A1",
-    "Room": "212A"
+    "Course": "PEC-III CSA TE-CSBS",
+    "Room": "414"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "CP-B3",
-    "Room": "212A"
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E3-DEVOPS",
+    "Room": "518B"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "IOT SE-C",
-    "Room": "506"
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
+    "Day": "WED",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A1-PEC-III-CSA",
+    "Room": "519"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "WED",
     "Time_Slot": "11:00-12:00",
-    "Course": "SE-B3-CN",
-    "Room": "112C"
+    "Course": "PEC-III CSA TE-CSBS",
+    "Room": "505"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "WED",
-    "Time_Slot": "3:00-4:00",
-    "Course": "IOT SE-A",
-    "Room": "504"
-  },
-  {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-B2-CN",
-    "Room": "112C"
-  },
-  {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
-    "Day": "THR",
     "Time_Slot": "2:00-3:00",
-    "Course": "OE-DT",
-    "Room": "SE-CSBS- (A+B)             625"
+    "Course": "DEVOPS TE-E",
+    "Room": "612A"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-E1-DEVOPS",
+    "Room": "518B"
+  },
+  {
+    "Faculty_Name": "ASHA CHAVAN",
+    "Faculty_Code": "AC",
     "Day": "FRI",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-CSBS-A2-PEC-IV-  ASTMA",
+    "Room": "521"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "MON",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A2-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A2-PEC-III SC",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III SC TE-(A-E)",
+    "Room": "612-B"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "TUE",
     "Time_Slot": "1:00-2:00",
-    "Course": "IOT SE-A",
-    "Room": "504"
+    "Course": "OS SE-CSBS-A",
+    "Room": "414"
   },
   {
-    "Faculty_Name": "/PDD",
-    "Faculty_Code": "PDD",
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "OS SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "WED",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-III SC TE-(A-E)",
+    "Room": "612-B"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B2-PEC-III SC",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "THR",
+    "Time_Slot": "9:00-10:00",
+    "Course": "OS SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-(A3+D3)-PEC-III SC",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III SC TE-(A-E)",
+    "Room": "612-B"
+  },
+  {
+    "Faculty_Name": "ARCHANA GHATE",
+    "Faculty_Code": "APG",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-(C3+E3)-PEC-III SC",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CNS TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B3-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "SBLPython SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "TUE",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CNS TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "SBLPython SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B2-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A3-CNS",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B1-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-A1-CNS",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "FRI",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CNS TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "DR. BHAVNA ALTE",
+    "Faculty_Code": "BAA",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-A2-CNS",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "MON",
+    "Time_Slot": "12:00-1:00",
+    "Course": "MTech-DS(TH) 12:00-1:30",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B2-ML",
+    "Room": "202B"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "TUE",
+    "Time_Slot": "9:00-10:00",
+    "Course": "TCS SE-D",
+    "Room": "514"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "TUE",
+    "Time_Slot": "2:00-4:00",
+    "Course": "MTech-LAB-III",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "WED",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MTech-DS(TH) 9:30-11:00",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "THR",
+    "Time_Slot": "11:00-12:00",
+    "Course": "TCS SE-D",
+    "Room": "514"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-C3-ML",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "DR. BHARTI JOSHI",
+    "Faculty_Code": "BAJ",
+    "Day": "FRI",
+    "Time_Slot": "11:00-12:00",
+    "Course": "TCS SE-D",
+    "Room": "514"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "MON",
+    "Time_Slot": "11:00-12:00",
+    "Course": "PEC-II CC TE-(A+E1)",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-(A3+C3)-PEC-II-CC",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "DEVOPS TE-(A+D)",
+    "Room": "511"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "TUE",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-II CC TE-(A+E1)",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D3-DEVOPS",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-II CC TE-(A+E1)",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A1-PEC-II-CC",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-D2-DEVOPS",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-D1-DEVOPS",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
     "Day": "FRI",
     "Time_Slot": "2:00-3:00",
-    "Course": "OE-DT",
-    "Room": "SE-CSBS- (A+B)                625"
+    "Course": "DEVOPS TE-(A+D)",
+    "Room": "511"
+  },
+  {
+    "Faculty_Name": "Ms. Bharti Vijay Nikose",
+    "Faculty_Code": "BVN",
+    "Day": "FRI",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-DS-MINOR-NLP-B3",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "MON",
+    "Time_Slot": "11:00-12:00",
+    "Course": "PEC-II DWM TE-(A-E)",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "MON",
+    "Time_Slot": "1:00-2:00",
+    "Course": "CNS TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-(A3+C3)-PEC-II-DWM",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "TUE",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-II DWM TE-(A-E)",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-(E2)-PEC-II-DWM",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-II DWM TE-(A-E)",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "CNS TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C2-CNS",
+    "Room": "521"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-C1-CNS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "FRI",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CNS TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DHANASHREE BHOSLE",
+    "Faculty_Code": "DAB",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-(B3+D3)-PEC-II-DWM",
+    "Room": "519"
   },
   {
     "Faculty_Name": "DR. HEMLATA BIRADAR",
     "Faculty_Code": "HGB",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "SE-D3-DSE",
     "Room": "524"
   },
@@ -2491,7 +1235,7 @@
     "Faculty_Name": "DR. HEMLATA BIRADAR",
     "Faculty_Code": "HGB",
     "Day": "MON",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "FE-M2-DSA",
     "Room": "212B"
   },
@@ -2499,7 +1243,7 @@
     "Faculty_Name": "DR. HEMLATA BIRADAR",
     "Faculty_Code": "HGB",
     "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
+    "Time_Slot": "9:00-11:00",
     "Course": "FE-M1-DSA",
     "Room": "212B"
   },
@@ -2515,7 +1259,7 @@
     "Faculty_Name": "DR. HEMLATA BIRADAR",
     "Faculty_Code": "HGB",
     "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "SE-D2-DSE",
     "Room": "524"
   },
@@ -2555,7 +1299,7 @@
     "Faculty_Name": "DR. HEMLATA BIRADAR",
     "Faculty_Code": "HGB",
     "Day": "FRI",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "FE-M3-DSA",
     "Room": "212B"
   },
@@ -2563,7 +1307,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "MON",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "SE-C1-CN",
     "Room": "518A"
   },
@@ -2579,7 +1323,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "MON",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "TE-B3-DEVOPS",
     "Room": "518B"
   },
@@ -2587,7 +1331,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "SE-D1-CN",
     "Room": "518A"
   },
@@ -2603,7 +1347,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "WED",
-    "Time_Slot": "1:00-2:00",
+    "Time_Slot": "1:00-3:00",
     "Course": "SE-D3-CN",
     "Room": "518A"
   },
@@ -2611,7 +1355,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "WED",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "TE-A2-DEVOPS",
     "Room": "518A"
   },
@@ -2635,7 +1379,7 @@
     "Faculty_Name": "JYOTI VENGURLEKAR",
     "Faculty_Code": "JPV",
     "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
+    "Time_Slot": "11:00-1:00",
     "Course": "TE-B2-DEVOPS",
     "Room": "521"
   },
@@ -2648,276 +1392,684 @@
     "Room": "514"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "IOT SE-CSBS-B",
-    "Room": "415"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E1-CN",
+    "Room": "518B"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
     "Day": "MON",
-    "Time_Slot": "10:00-11:00",
-    "Course": "IOT SE-CE-B",
-    "Room": "505"
+    "Time_Slot": "2:00-3:00",
+    "Course": "IOT TE-D",
+    "Room": "625"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-A1-DEVOPS",
-    "Room": "518A"
-  },
-  {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
     "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "IOT SE-CE-B",
-    "Room": "505"
+    "Time_Slot": "10:00-11:00",
+    "Course": "CN SE-E",
+    "Room": "515"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
     "Day": "TUE",
     "Time_Slot": "2:00-3:00",
-    "Course": "CSE - SE",
-    "Room": "215"
+    "Course": "IOT TE-D",
+    "Room": "625"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
     "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-B1-DEVOPS",
-    "Room": "524"
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D2-PEC-II-CC",
+    "Room": "112A"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E3-CN",
+    "Room": "518B"
+  },
+  {
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CN SE-E",
+    "Room": "515"
+  },
+  {
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-E2-CN",
+    "Room": "518B"
+  },
+  {
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CN SE-E",
+    "Room": "515"
+  },
+  {
+    "Faculty_Name": "Dr. Jaswantsingh Rajput",
+    "Faculty_Code": "JSR",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-D3-PEC-II-CC",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "MON",
+    "Time_Slot": "1:00-2:00",
+    "Course": "ML TE-D",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D1-ML",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-C+D2",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C1-PEC-III DMV",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
     "Day": "WED",
     "Time_Slot": "11:00-12:00",
-    "Course": "IOT SE-CSBS-B",
-    "Room": "415"
+    "Course": "ML TE-D",
+    "Room": "625"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
     "Day": "WED",
     "Time_Slot": "1:00-2:00",
-    "Course": "CSE - SE",
-    "Room": ""
+    "Course": "PEC-III DMV TE-C++D2",
+    "Room": "624"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
     "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D3-ML",
+    "Room": "617B"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "THR",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-D",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-C2-PEC-III DMV",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-C+D2",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "NEHA MAHAJAN",
+    "Faculty_Code": "NNM",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-D2-ML",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-B",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A3-SBLPython",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "MON",
     "Time_Slot": "3:00-4:00",
-    "Course": "TE-C1-PEC-II-CC-",
+    "Course": "SBLPython SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "TUE",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-B",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "TUE",
+    "Time_Slot": "2:00-3:00",
+    "Course": "SBLPython SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "WED",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR-NLP TE-B",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A2-SBLPython",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "THR",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-A2-MINOR-NLP",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A1-SBLPython",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-A1-ML",
+    "Room": "617A"
+  },
+  {
+    "Faculty_Name": "DR. PREETCHANDAN KAUR",
+    "Faculty_Code": "PCK",
+    "Day": "FRI",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B2-MINOR-NLP",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "IOT SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B1-CN",
     "Room": "112C"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "TUE",
+    "Time_Slot": "9:00-11:00",
+    "Course": "CP-A1",
+    "Room": "212A"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "TUE",
+    "Time_Slot": "11:00-1:00",
+    "Course": "CP-B3",
+    "Room": "212A"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "TUE",
+    "Time_Slot": "2:00-3:00",
+    "Course": "IOT SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B3-CN",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "WED",
+    "Time_Slot": "3:00-4:00",
+    "Course": "IOT SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
     "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B2-CN",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "THR",
+    "Time_Slot": "2:00-3:00",
+    "Course": "OE-DT SE-CSBS- (A+B)",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
+    "Day": "FRI",
     "Time_Slot": "1:00-2:00",
-    "Course": "TE-D1-PEC-II-CC",
-    "Room": "613B"
+    "Course": "IOT SE-A",
+    "Room": "504"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
+    "Faculty_Name": "PDD",
+    "Faculty_Code": "PDD",
     "Day": "FRI",
-    "Time_Slot": "10:00-11:00",
-    "Course": "CSE - SE",
-    "Room": ""
+    "Time_Slot": "2:00-3:00",
+    "Course": "OE-DT SE-CSBS- (A+B)",
+    "Room": "625"
   },
   {
-    "Faculty_Name": "DR. VAISHALI JADHAV",
-    "Faculty_Code": "VSJ",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-A3-DEVOPS",
-    "Room": "520"
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR ISB TE",
+    "Room": "514"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
     "Day": "MON",
     "Time_Slot": "10:00-11:00",
-    "Course": "CNS TE-E",
-    "Room": "612A"
+    "Course": "CNS TE-B",
+    "Room": "612B"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "MON",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-B3-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
     "Day": "TUE",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SBLPython SE-CSBS-B",
-    "Room": "415"
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR ISB TE",
+    "Room": "514"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
     "Day": "TUE",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-B2-SBLPython",
-    "Room": "513B"
+    "Time_Slot": "2:00-3:00",
+    "Course": "CNS TE-B",
+    "Room": "612B"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "CNS TE-E",
-    "Room": "612A"
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B3-CNS",
+    "Room": "522"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
     "Day": "WED",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SE-D1-DSE",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR ISB TE",
+    "Room": "514"
+  },
+  {
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CNS TE-B",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-B2-CNS",
+    "Room": "521"
+  },
+  {
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-B1-CNS",
+    "Room": "518B"
+  },
+  {
+    "Faculty_Name": "PRATHMESH G.",
+    "Faculty_Code": "PNG",
+    "Day": "FRI",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-MINOR-ISB",
     "Room": "524"
   },
   {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "THR",
-    "Time_Slot": "11:00-12:00",
-    "Course": "SE-C3-DSE",
-    "Room": "520"
-  },
-  {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "SBLPython SE-CSBS-B",
-    "Room": "415"
-  },
-  {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "FRI",
-    "Time_Slot": "9:00-10:00",
-    "Course": "SE-B1-SBLPython",
-    "Room": "513B"
-  },
-  {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "FRI",
-    "Time_Slot": "11:00-12:00",
-    "Course": "TE-E1-CNS",
-    "Room": "620"
-  },
-  {
-    "Faculty_Name": "CHAITANYA JAGE",
-    "Faculty_Code": "CJ",
-    "Day": "FRI",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CNS TE-E",
-    "Room": "612A"
-  },
-  {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A2-PEC-III-CSA",
-    "Room": "519"
+    "Time_Slot": "10:00-11:00",
+    "Course": "ML TE-C",
+    "Room": "624"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
     "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC-III CSA TE-CSBS",
+    "Time_Slot": "12:00-1:00",
+    "Course": "AI TE-CSBS",
     "Room": "505"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
     "Day": "MON",
-    "Time_Slot": "2:00-3:00",
-    "Course": "DEVOPS TE-E",
-    "Room": "612A"
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C1-ML",
+    "Room": "202A"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
-    "Day": "MON",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E2-DEVOPS",
-    "Room": "521"
-  },
-  {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
     "Day": "TUE",
-    "Time_Slot": "9:00-10:00",
-    "Course": "PEC-III CSA TE-CSBS",
+    "Time_Slot": "10:00-11:00",
+    "Course": "AI TE-CSBS",
     "Room": "414"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
     "Day": "TUE",
-    "Time_Slot": "3:00-4:00",
-    "Course": "TE-E3-DEVOPS",
-    "Room": "518B"
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-CSBS-A2-AI",
+    "Room": "522"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
-    "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "TE-CSBS-A1-PEC-III-CSA",
-    "Room": "519"
-  },
-  {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
-    "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "PEC-III CSA TE-CSBS",
-    "Room": "505"
-  },
-  {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
-    "Day": "WED",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "TUE",
     "Time_Slot": "2:00-3:00",
-    "Course": "DEVOPS TE-E",
+    "Course": "ML TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "WED",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A3-AI",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "THR",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-CSBS-A1-AI",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "THR",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "THR",
+    "Time_Slot": "2:00-3:00",
+    "Course": "AI TE-CSBS",
     "Room": "612A"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
-    "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-E1-DEVOPS",
+    "Faculty_Name": "DR. POONAM GADGE",
+    "Faculty_Code": "PVG",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-C2-ML",
+    "Room": "617B"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "MON",
+    "Time_Slot": "2:00-3:00",
+    "Course": "ML TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C2-DEVOPS",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "DEVOPS TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A3-ML",
+    "Room": "617A"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C3-DEVOPS",
     "Room": "518B"
   },
   {
-    "Faculty_Name": "ASHA CHAVAN",
-    "Faculty_Code": "AC",
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "THR",
+    "Time_Slot": "9:00-11:00",
+    "Course": "TE-DS MINOR NLP",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "THR",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-A",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-A2-ML",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
     "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-C1-DEVOPS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "REKHA GUPTA",
+    "Faculty_Code": "RG",
+    "Day": "FRI",
+    "Time_Slot": "2:00-3:00",
+    "Course": "DEVOPS TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "DSE SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A2-DSE",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "MON",
+    "Time_Slot": "2:00-3:00",
+    "Course": "IOT TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "IOT SE-A-CSBS",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "TUE",
     "Time_Slot": "1:00-2:00",
-    "Course": "TE-CSBS-A2-PEC-IV-  ASTMA",
-    "Room": "521"
+    "Course": "DSE SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A1-DSE",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "IOT TE-C",
+    "Room": "624"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A3-DSE",
+    "Room": "519"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "FRI",
+    "Time_Slot": "9:00-10:00",
+    "Course": "IOT SE-A-CSBS",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "Dr. SIULI DAS",
+    "Faculty_Code": "SDD",
+    "Day": "FRI",
+    "Time_Slot": "11:00-12:00",
+    "Course": "DSE SE-A",
+    "Room": "504"
   },
   {
     "Faculty_Name": "SNEHAL MUMBAIKAR",
@@ -2963,7 +2115,7 @@
     "Faculty_Name": "SNEHAL MUMBAIKAR",
     "Faculty_Code": "SM",
     "Day": "WED",
-    "Time_Slot": "3:00-4:00",
+    "Time_Slot": "3:00-5:00",
     "Course": "TE-D1-PEC-III-DMV",
     "Room": "513A"
   },
@@ -2971,8 +2123,8 @@
     "Faculty_Name": "SNEHAL MUMBAIKAR",
     "Faculty_Code": "SM",
     "Day": "THR",
-    "Time_Slot": "1:00-2:00",
-    "Course": "TE-(A3+D3)-PEC-III-DMV-",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-(A3+D3)-PEC-III-DMV",
     "Room": "617B"
   },
   {
@@ -2984,99 +2136,859 @@
     "Room": "515"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "MON",
-    "Time_Slot": "9:00-10:00",
-    "Course": "CP FE-B",
-    "Room": "005"
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A1-AOA",
+    "Room": "523"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "MON",
-    "Time_Slot": "11:00-12:00",
-    "Course": "FE-A3-CP",
-    "Room": "212A"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B2-DSE",
+    "Room": "524"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "MON",
+    "Time_Slot": "2:00-3:00",
+    "Course": "AOA SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "TUE",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A3-AOA",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "TUE",
+    "Time_Slot": "2:00-3:00",
+    "Course": "AOA SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "WED",
     "Time_Slot": "10:00-11:00",
-    "Course": "CP FE-B",
-    "Room": "005"
+    "Course": "AOA SE-CSBS-A",
+    "Room": "414"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
-    "Day": "TUE",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CP FE-A",
-    "Room": "004"
-  },
-  {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "WED",
-    "Time_Slot": "9:00-10:00",
-    "Course": "FE-B1-CP",
-    "Room": "212A"
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B1-DSE",
+    "Room": "524"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "WED",
-    "Time_Slot": "11:00-12:00",
-    "Course": "FE-D1-CP",
-    "Room": "212A"
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-A2-AOA",
+    "Room": "523"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
-    "Day": "WED",
-    "Time_Slot": "2:00-3:00",
-    "Course": "CP FE-B",
-    "Room": "005"
-  },
-  {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
     "Day": "THR",
     "Time_Slot": "10:00-11:00",
-    "Course": "CP FE-A",
-    "Room": "004"
+    "Course": "DSE SE-B",
+    "Room": "505"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-B3-DSE",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "THR",
+    "Time_Slot": "2:00-3:00",
+    "Course": "DSE SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR.SIDDHI KADU",
+    "Faculty_Code": "SNK",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "DSE SE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CNS TE-D",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D3-CNS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "MTech-BCA(TH)- (11:30-1:00PM)",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D1-CNS",
+    "Room": "408"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CNS TE-D",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-D2-CNS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "THR",
+    "Time_Slot": "10:00-11:00",
+    "Course": "MTech-BCA(TH)- (10:00-11:30AM)",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "Dr. SAVITA BHOSALE",
+    "Faculty_Code": "SRB",
+    "Day": "FRI",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CNS TE-D",
+    "Room": "625"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "MON",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-B2-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E1-PEC-II-CC",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "TUE",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A1-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "TCS SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C2-PEC-II-CC",
+    "Room": "521"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "TCS SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "TCS SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E3-PEC-II-CC",
+    "Room": "202A"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "THR",
+    "Time_Slot": "10:00-11:00",
+    "Course": "TCS SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "TCS SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. SHITAL MALI",
+    "Faculty_Code": "SSM",
+    "Day": "FRI",
+    "Time_Slot": "11:00-12:00",
+    "Course": "TCS SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B1-PEC-III-DMV",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A1-PEC-III-DMV",
+    "Room": "513A"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "WED",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR SE",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "WED",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "THR",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR SE",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-B3-PEC-III-DMV",
+    "Room": "617A"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "FRI",
+    "Time_Slot": "9:00-10:00",
+    "Course": "MINOR SE",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-III DMV TE-A1+A3+B1+D1",
+    "Room": "626"
+  },
+  {
+    "Faculty_Name": "Dr. SHILPA SHINDE",
+    "Faculty_Code": "SSS",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-(C3+E3)-PEC-III-DMV",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "OS SE-CSBS-",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "MON",
+    "Time_Slot": "1:00-2:00",
+    "Course": "ML TE-B",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-B",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "TUE",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-B1-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "OS SE-CSBS-A",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-B",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "WED",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-A3-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B3-ML",
+    "Room": "617A"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "THR",
+    "Time_Slot": "9:00-10:00",
+    "Course": "OS SE-CSBS-A",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-B1-ML",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "TRUPTI AGARKAR",
+    "Faculty_Code": "TPA",
+    "Day": "FRI",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-B3-OS",
+    "Room": "522"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "MON",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A3-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "MON",
+    "Time_Slot": "1:00-2:00",
+    "Course": "ML TE-E",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E3-ML",
+    "Room": "601"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "TUE",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-A2-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-E",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-E1-ML",
+    "Room": "617B"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "WED",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-A1-SBLPython",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "THR",
+    "Time_Slot": "11:00-12:00",
+    "Course": "ML TE-E",
+    "Room": "612A"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
     "Day": "THR",
     "Time_Slot": "1:00-2:00",
-    "Course": "FE-A2-CP",
+    "Course": "SBLPython SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "SBLPython SE-CSBS-A",
+    "Room": "414"
+  },
+  {
+    "Faculty_Name": "Dr. UTTAM WAGHMODE",
+    "Faculty_Code": "UPW",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-E2-ML",
+    "Room": "513B"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CP FE-D",
+    "Room": "012"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "MON",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A1-CN",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CN SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "TUE",
+    "Time_Slot": "1:00-2:00",
+    "Course": "CP FE-D",
+    "Room": "012"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A3-CN",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "WED",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CN SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "THR",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CN SE-A",
+    "Room": "504"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-A2-CN",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "THR",
+    "Time_Slot": "3:00-5:00",
+    "Course": "FE-D2-CP",
     "Room": "212A"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
     "Day": "FRI",
     "Time_Slot": "11:00-12:00",
-    "Course": "FE-B2-CP",
+    "Course": "CP FE-D",
+    "Room": "012"
+  },
+  {
+    "Faculty_Name": "DR. VISHAKHA GAIKWAD",
+    "Faculty_Code": "VKG",
+    "Day": "FRI",
+    "Time_Slot": "3:00-5:00",
+    "Course": "FE-D3-CP",
     "Room": "212A"
   },
   {
-    "Faculty_Name": "DR. SHAMAL SALUNKHE",
-    "Faculty_Code": "SS",
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "MON",
+    "Time_Slot": "10:00-12:00",
+    "Course": "MTech-LAB-IV",
+    "Room": "213"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "MON",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-B1-AOA",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "TUE",
+    "Time_Slot": "10:00-11:00",
+    "Course": "MTech-OTBI(TH) (10:00-11:30AM)",
+    "Room": "213-A"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "TUE",
+    "Time_Slot": "1:00-3:00",
+    "Course": "SE-CSBS-B3-AOA",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "WED",
+    "Time_Slot": "9:00-11:00",
+    "Course": "AOA                     SE-CSBS-B                        415",
+    "Room": ""
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "WED",
+    "Time_Slot": "1:00-2:00",
+    "Course": "MTech-OTBI(TH) (1:30-3:00PM)",
+    "Room": "213A"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "THR",
+    "Time_Slot": "10:00-12:00",
+    "Course": "AOA                     SE-CSBS-B                        415",
+    "Room": ""
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "FRI",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-CSBS-B2-AOA",
+    "Room": "523"
+  },
+  {
+    "Faculty_Name": "DR. VANITA MANE",
+    "Faculty_Code": "VMM",
+    "Day": "FRI",
+    "Time_Slot": "1:00-3:00",
+    "Course": "AOA                     SE-CSBS-B                        415",
+    "Room": ""
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "MON",
+    "Time_Slot": "9:00-11:00",
+    "Course": "SE-D2-CN",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "MON",
+    "Time_Slot": "11:00-12:00",
+    "Course": "PEC-II CC TE-(B1+B2+C1+E3)",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "MON",
+    "Time_Slot": "3:00-4:00",
+    "Course": "CN SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "TUE",
+    "Time_Slot": "9:00-10:00",
+    "Course": "CN SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "TUE",
+    "Time_Slot": "1:00-2:00",
+    "Course": "PEC-II CC TE-(B1+B2+C1+E2)",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B2-PEC-II-CC",
+    "Room": "520"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "WED",
+    "Time_Slot": "10:00-11:00",
+    "Course": "PEC-II CC TE-(B1+B2+C1+E3)",
+    "Room": "612B"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "WED",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C3-CN",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B1-PEC-II-CC",
+    "Room": "112A"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
+    "Day": "THR",
+    "Time_Slot": "11:00-1:00",
+    "Course": "SE-C2-CN",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "VRUSHALI PATIL",
+    "Faculty_Code": "VMP",
     "Day": "FRI",
     "Time_Slot": "2:00-3:00",
-    "Course": "CP FE-A",
-    "Room": "004"
+    "Course": "CN SE-C",
+    "Room": "506"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "MON",
+    "Time_Slot": "9:00-10:00",
+    "Course": "IOT SE-CSBS-B",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "MON",
+    "Time_Slot": "10:00-11:00",
+    "Course": "IOT SE-CE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "MON",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-A1-DEVOPS",
+    "Room": "518A"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "TUE",
+    "Time_Slot": "11:00-12:00",
+    "Course": "IOT SE-CE-B",
+    "Room": "505"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "TUE",
+    "Time_Slot": "2:00-3:00",
+    "Course": "CSE - SE",
+    "Room": "215"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "TUE",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-B1-DEVOPS",
+    "Room": "524"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "WED",
+    "Time_Slot": "11:00-12:00",
+    "Course": "IOT SE-CSBS-B",
+    "Room": "415"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "WED",
+    "Time_Slot": "1:00-3:00",
+    "Course": "CSE - SE",
+    "Room": ""
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "WED",
+    "Time_Slot": "3:00-5:00",
+    "Course": "TE-C1-PEC-II-CC",
+    "Room": "112C"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "THR",
+    "Time_Slot": "1:00-3:00",
+    "Course": "TE-D1-PEC-II-CC",
+    "Room": "613B"
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "FRI",
+    "Time_Slot": "10:00-11:00",
+    "Course": "CSE - SE",
+    "Room": ""
+  },
+  {
+    "Faculty_Name": "DR. VAISHALI JADHAV",
+    "Faculty_Code": "VSJ",
+    "Day": "FRI",
+    "Time_Slot": "11:00-1:00",
+    "Course": "TE-A3-DEVOPS",
+    "Room": "520"
   },
   {
     "Faculty_Name": "Namrata Singh",
     "Faculty_Code": "NS",
     "Day": "MON",
     "Time_Slot": "2:00-3:00",
-    "Course": "EVS SE-C E2 E3",
+    "Course": "EVS SE-C,E2,E3",
     "Room": "511"
   },
   {
@@ -3084,7 +2996,7 @@
     "Faculty_Code": "NS",
     "Day": "THR",
     "Time_Slot": "2:00-3:00",
-    "Course": "EVS SE-C E2 E3",
+    "Course": "EVS SE-C,E2,E3",
     "Room": "511"
   },
   {

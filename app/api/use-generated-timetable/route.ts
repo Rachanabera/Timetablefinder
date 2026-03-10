@@ -1,7 +1,7 @@
 // app/api/use-generated-timetable/route.ts
 import { NextRequest, NextResponse } from 'next/server'
-import { writeFile } from 'fs/promises'
-import path from 'path'
+import { db } from '@/lib/firebase'
+import { collection, writeBatch, doc } from 'firebase/firestore'
 
 export async function POST(request: NextRequest) {
   try {
@@ -9,8 +9,8 @@ export async function POST(request: NextRequest) {
     const { generatedTimetable } = data
 
     // Convert generated timetable to standard format
-    const standardFormat = generatedTimetable.schedules.map((slot: any) => {
-      const studentGroup = slot.studentGroup.batch 
+    const newEntries = generatedTimetable.schedules.map((slot: any) => {
+      const studentGroup = slot.studentGroup.batch
         ? `${slot.studentGroup.branch}-${slot.studentGroup.division}-${slot.studentGroup.batch}`
         : `${slot.studentGroup.branch}-${slot.studentGroup.division}`
 
@@ -26,35 +26,32 @@ export async function POST(request: NextRequest) {
       }
     })
 
-    // Save as new timetable.csv
-    const filePath = path.join(process.cwd(), 'public', 'timetable1.csv')
-    interface TimetableEntry {
-    Day: string
-    Time_Slot: string
-    Course: string
-    Faculty_Code: string
-    Faculty_Name: string
-    Room: string
-    Student_Group: string
-    Type: string
-    }
-    let csvContent = 'Day,Time_Slot,Course,Faculty_Code,Faculty_Name,Room,Student_Group,Type\n'
-    // Then use it
-    standardFormat.forEach((entry: TimetableEntry) => {
-    csvContent += `${entry.Day},${entry.Time_Slot},${entry.Course},${entry.Faculty_Code},${entry.Faculty_Name},${entry.Room},${entry.Student_Group},${entry.Type}\n`
-    })
-    await writeFile(filePath, csvContent)
+    // Save to Firestore
+    const batch = writeBatch(db)
+    const collectionRef = collection(db, 'timetables')
 
-    return NextResponse.json({ 
-      success: true, 
-      message: 'Generated timetable is now active',
-      entriesCount: standardFormat.length
+    // Simple batch strategy
+    const CHUNK_SIZE = 450
+    for (let i = 0; i < newEntries.length; i += CHUNK_SIZE) {
+      const chunk = newEntries.slice(i, i + CHUNK_SIZE)
+      const chunkBatch = writeBatch(db)
+      chunk.forEach((entry: any) => {
+        const docRef = doc(collectionRef)
+        chunkBatch.set(docRef, entry)
+      })
+      await chunkBatch.commit()
+    }
+
+    return NextResponse.json({
+      success: true,
+      message: 'Generated timetable is now active in database',
+      entriesCount: newEntries.length
     })
   } catch (error: any) {
     console.error('Error activating timetable:', error)
-    return NextResponse.json({ 
-      success: false, 
-      error: error.message 
+    return NextResponse.json({
+      success: false,
+      error: error.message
     }, { status: 500 })
   }
 }

@@ -6,7 +6,7 @@ import ScheduleCard from '@/components/ScheduleCard'
 import TimeSelector from '@/components/TimeSelector'
 import TimetableView from '@/components/TimetableView'
 import WeeklyTimetableView from '@/components/WeeklyTimetableView'
-import { getCurrentDay, getCurrentTimeSlot, type TimetableEntry } from '@/lib/timetable'
+import { getCurrentDay, getCurrentTimeSlot, timeToHour, type TimetableEntry } from '@/lib/timetable'
 import { getDayName } from '@/lib/utils'
 
 export default function RoomQuery() {
@@ -17,7 +17,7 @@ export default function RoomQuery() {
   const [loading, setLoading] = useState(false)
   const [allRooms, setAllRooms] = useState<string[]>([])
   const [viewMode, setViewMode] = useState<'current' | 'fullday' | 'weekly'>('current')
-  
+
   const [useCurrentTime, setUseCurrentTime] = useState(true)
   const [currentDay, setCurrentDay] = useState('')
   const [currentTime, setCurrentTime] = useState('')
@@ -53,18 +53,18 @@ export default function RoomQuery() {
 
   const handleSearch = async () => {
     if (!room) return
-    
+
     setLoading(true)
     try {
       const response = await fetch('/api/timetable')
       const data: TimetableEntry[] = await response.json()
-      
+
       const day = useCurrentTime ? currentDay : selectedDay
       const timeSlot = useCurrentTime ? currentTime : selectedTime
-      
+
       // Get day schedule
       const daySchedule = data.filter(
-        entry => 
+        entry =>
           entry.Room.toUpperCase() === room.toUpperCase() &&
           entry.Day === day
       )
@@ -72,9 +72,16 @@ export default function RoomQuery() {
 
       // Get current time results
       if (timeSlot && timeSlot !== 'Outside class hours') {
-        const filtered = daySchedule.filter(
-          entry => entry.Time_Slot === timeSlot
-        )
+        const filtered = daySchedule.filter(entry => {
+          // Overlap check to handle combined 2-hour slots
+          const [qStart, qEnd] = timeSlot.split('-')
+          const [eStart, eEnd] = entry.Time_Slot.split('-')
+          const qStartH = timeToHour(qStart)
+          const qEndH = timeToHour(qEnd)
+          const eStartH = timeToHour(eStart)
+          const eEndH = timeToHour(eEnd)
+          return eStartH < qEndH && eEndH > qStartH
+        })
         setResults(filtered)
       } else {
         setResults([])
@@ -85,7 +92,7 @@ export default function RoomQuery() {
         entry => entry.Room.toUpperCase() === room.toUpperCase()
       )
       setWeeklySchedule(weekly)
-      
+
     } catch (error) {
       console.error('Error fetching data:', error)
     }
@@ -163,32 +170,29 @@ export default function RoomQuery() {
         <div className="flex justify-center gap-3 flex-wrap">
           <button
             onClick={() => setViewMode('current')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${
-              viewMode === 'current'
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${viewMode === 'current'
                 ? 'bg-gradient-to-r from-blue-500 to-cyan-500 text-white shadow-lg scale-105'
                 : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+              }`}
           >
             Current Time Slot
           </button>
           <button
             onClick={() => setViewMode('fullday')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${
-              viewMode === 'fullday'
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${viewMode === 'fullday'
                 ? 'bg-gradient-to-r from-blue-500 to-cyan-500 text-white shadow-lg scale-105'
                 : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+              }`}
           >
             <Calendar className="w-5 h-5" />
             Full Day Timetable
           </button>
           <button
             onClick={() => setViewMode('weekly')}
-            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${
-              viewMode === 'weekly'
+            className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2 ${viewMode === 'weekly'
                 ? 'bg-gradient-to-r from-blue-500 to-cyan-500 text-white shadow-lg scale-105'
                 : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+              }`}
           >
             <CalendarRange className="w-5 h-5" />
             Weekly Timetable
